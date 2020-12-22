@@ -1,0 +1,1 @@
+### This repository is the home to the projects I made while learning JavaScript
